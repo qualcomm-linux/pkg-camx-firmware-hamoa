@@ -1,0 +1,17 @@
+Source: camxfirmware
+Section: misc
+Priority: optional
+Maintainer: Qualcomm Camera Team <camx.deb.maintainers@qti.qualcomm.com>
+Rules-Requires-Root: no
+Build-Depends:
+ debhelper-compat (= 13),
+Standards-Version: 4.6.2
+Homepage: http://support.cdmatech.com
+
+Package: camx-firmware-hamoa
+Section: libdevel
+Architecture: arm64
+Depends:
+ ${misc:Depends},
+Description: Qualcomm CamX camera stack firmware package.
+ camera firmware file for Hamoa platform.

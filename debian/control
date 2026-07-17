@@ -7,6 +7,8 @@ Build-Depends:
  debhelper-compat (= 13),
 Standards-Version: 4.6.2
 Homepage: http://support.cdmatech.com
+Vcs-Browser: https://github.com/qualcomm-linux/pkg-camx-firmware-hamoa
+Vcs-Git: https://github.com/qualcomm-linux/pkg-camx-firmware-hamoa.git
 
 Package: camx-firmware-hamoa
 Architecture: arm64

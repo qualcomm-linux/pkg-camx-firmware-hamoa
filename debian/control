@@ -12,5 +12,6 @@ Package: camx-firmware-hamoa
 Architecture: arm64
 Depends:
  ${misc:Depends},
-Description: Qualcomm CamX camera stack firmware package.
- camera firmware file for Hamoa platform.
+Description: Qualcomm CamX camera stack firmware
+ This package contains the camera firmware file for the Qualcomm Hamoa
+ platform.

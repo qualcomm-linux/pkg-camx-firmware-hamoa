@@ -1,6 +1,5 @@
 Source: camx-firmware-hamoa
 Section: non-free-firmware/libs
-Priority: optional
 Maintainer: Qualcomm Camera Team <camx.deb.maintainers@qti.qualcomm.com>
 Uploaders:
  Agathe Porte <agathe.porte@oss.qualcomm.com>,

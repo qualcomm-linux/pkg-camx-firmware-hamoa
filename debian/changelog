@@ -1,5 +1,6 @@
-camx-firmware-hamoa (1.0.0-0qli+staging1~) UNRELEASED; urgency=medium
+camx-firmware-hamoa (1.0.0-0qli+staging1) forky; urgency=medium
 
+  [ Agathe Porte ]
   * Initial release.
 
- -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Fri, 17 Jul 2026 14:52:36 +0200
+ -- root <root@25df5d280bc7>  Fri, 17 Jul 2026 13:46:58 +0000

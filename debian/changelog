@@ -1,3 +1,9 @@
+camx-firmware-hamoa (1.0.0-0qli+staging1~bpo13+2~) UNRELEASED; urgency=medium
+
+  * Unreleased changes
+
+ -- root <root@fc44b07585b1>  Fri, 17 Jul 2026 13:54:16 +0000
+
 camx-firmware-hamoa (1.0.0-0qli+staging1~bpo13+1) trixie; urgency=medium
 
   [ Agathe Porte ]

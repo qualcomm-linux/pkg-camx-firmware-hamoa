@@ -1,0 +1,3 @@
+# Prebuilt firmware
+binary-from-other-architecture [usr/lib/firmware/qcom/*]
+statically-linked-binary [usr/lib/firmware/qcom/*]

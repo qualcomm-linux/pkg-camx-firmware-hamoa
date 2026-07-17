@@ -1,0 +1,3 @@
+# Prebuilt firmware
+source-is-missing [camxfirmware-hamoa/arm64/usr/lib/firmware/qcom/*]
+source-contains-prebuilt-binary [camxfirmware-hamoa/arm64/usr/lib/firmware/qcom/*]

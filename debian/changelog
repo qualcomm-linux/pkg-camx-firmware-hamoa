@@ -2,11 +2,11 @@ camx-firmware-hamoa (1.0.0-0qli+staging2~) UNRELEASED; urgency=medium
 
   * Unreleased changes
 
- -- root <root@660575de223e>  Fri, 17 Jul 2026 13:49:04 +0000
+ -- Debusine Action GitHub Bot <noreply@bot.invalid>  Fri, 17 Jul 2026 13:49:04 +0000
 
 camx-firmware-hamoa (1.0.0-0qli+staging1) forky; urgency=medium
 
   [ Agathe Porte ]
   * Initial release.
 
- -- root <root@25df5d280bc7>  Fri, 17 Jul 2026 13:46:58 +0000
+ -- Debusine Action GitHub Bot <noreply@bot.invalid>  Fri, 17 Jul 2026 13:46:58 +0000

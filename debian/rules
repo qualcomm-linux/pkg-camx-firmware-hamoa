@@ -10,4 +10,7 @@ override_dh_strip:
 	    dh_strip -X/usr/lib/firmware/
 
 maintainerclean:
-	rm -r camxfirmware-hamoa/
+	rm -r \
+		LICENSE.qcom-2 \
+		camxfirmware-glymur/ \
+		camxfirmware-hamoa/

@@ -1,8 +1,9 @@
-camx-firmware-hamoa (1.0.2-0qli+staging1~bpo13+1~) UNRELEASED; urgency=medium
+camx-firmware-hamoa (1.0.2-0qli+staging1~bpo13+1) trixie; urgency=medium
 
+  [ Agathe Porte ]
   * Rebuild for trixie-backports.
 
- -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Wed, 29 Jul 2026 12:17:38 +0200
+ -- Debusine Action GitHub Bot <noreply@bot.invalid>  Wed, 29 Jul 2026 11:31:14 +0000
 
 camx-firmware-hamoa (1.0.2-0qli+staging1) forky; urgency=medium
 

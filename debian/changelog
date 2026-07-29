@@ -1,8 +1,9 @@
-camx-firmware-hamoa (1.0.2-0qli+staging1~) UNRELEASED; urgency=medium
+camx-firmware-hamoa (1.0.2-0qli+staging1) forky; urgency=medium
 
+  [ Agathe Porte ]
   * New upstream release
 
- -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Wed, 29 Jul 2026 11:44:51 +0200
+ -- Debusine Action GitHub Bot <noreply@bot.invalid>  Wed, 29 Jul 2026 10:11:58 +0000
 
 camx-firmware-hamoa (1.0.0-0qli+staging1) forky; urgency=medium
 

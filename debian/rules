@@ -8,3 +8,6 @@ override_dh_auto_install:
 
 override_dh_strip:
 	    dh_strip -X/usr/lib/firmware/
+
+maintainerclean:
+	rm -r camxfirmware-hamoa/

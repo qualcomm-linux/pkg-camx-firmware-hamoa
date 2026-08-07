@@ -1,8 +1,9 @@
-camx-firmware-hamoa (1.0.2-0qli1~) UNRELEASED; urgency=medium
+camx-firmware-hamoa (1.0.2-0qli1) forky; urgency=medium
 
+  [ Agathe Porte ]
   * Initial QLI release.
 
- -- Agathe Porte <agathe.porte@oss.qualcomm.com>  Fri, 07 Aug 2026 15:42:44 +0200
+ -- Debusine Action Bot <noreply@bot.invalid>  Fri, 07 Aug 2026 13:52:01 +0000
 
 camx-firmware-hamoa (1.0.2-0qli+staging1) forky; urgency=medium
 

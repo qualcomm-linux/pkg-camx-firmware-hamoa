@@ -1,8 +1,6 @@
 Source: camx-firmware-hamoa
 Section: non-free-firmware/libs
-Maintainer: Qualcomm Camera Team <camx.deb.maintainers@qti.qualcomm.com>
-Uploaders:
- Agathe Porte <agathe.porte@oss.qualcomm.com>,
+Maintainer: Agathe Porte <agathe.porte@oss.qualcomm.com>
 Build-Depends:
  debhelper-compat (= 13),
 Standards-Version: 4.7.4

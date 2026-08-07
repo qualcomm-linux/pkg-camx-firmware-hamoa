@@ -1,3 +1,7 @@
 # Prebuilt firmware
 source-is-missing [*/arm64/usr/lib/firmware/qcom/*]
 source-contains-prebuilt-binary [*/arm64/usr/lib/firmware/qcom/*]
+
+# Closed source development: no tracking bug nor repository available
+upstream-metadata-missing-bug-tracking
+upstream-metadata-missing-repository

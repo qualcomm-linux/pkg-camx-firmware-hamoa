@@ -17,3 +17,11 @@ Depends:
 Description: Qualcomm CamX camera stack firmware
  This package contains the camera firmware file for the Qualcomm Hamoa
  platform.
+
+Package: camx-firmware-purwa
+Section: libdevel
+Architecture: arm64
+Depends:
+ camx-firmware-hamoa (= ${binary:Version}),
+ ${misc:Depends}
+Description: Qualcomm CamX camera stack firmware package.

@@ -1,9 +1,10 @@
-camx-firmware-hamoa (1.0.5-1) UNRELEASED; urgency=medium
+camx-firmware-hamoa (1.0.5-1) resolute; urgency=medium
 
+  [ Qualcomm Camera Team ]
   [ Camera Team]
   * Enable purwa firmware packages
 
- -- Qualcomm Camera Team <camx.deb.maintainers@qti.qualcomm.com>  Fri, 14 Aug 2026 20:14:14 -0800
+ -- GitHub Service Bot <githubservice@qti.qualcomm.com>  Fri, 14 Aug 2026 16:51:57 +0000
 
 camx-firmware-hamoa (1.0.0-1) resolute; urgency=medium
 

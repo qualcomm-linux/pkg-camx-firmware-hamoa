@@ -1,34 +1,14 @@
-camx-firmware-hamoa (1.0.5-1) UNRELEASED; urgency=medium
+camxfirmware (1.0.5-1) UNRELEASED; urgency=medium
 
   [ Camera Team]
-  * Enable purwa packages
+  * Enable purwa firmware packages
 
- -- Debusine Action GitHub Bot <noreply@bot.invalid>  Wed, 29 Jul 2026 11:33:03 +0000
+ -- Qualcomm Camera Team <camx.deb.maintainers@qti.qualcomm.com>  Fri, 14 Aug 2026 20:14:14 -0800
 
-camx-firmware-hamoa (1.0.2-0qli+staging1~bpo13+1) trixie; urgency=medium
+camxfirmware (1.0.0-1) resolute; urgency=medium
 
-  [ Agathe Porte ]
-  * Rebuild for trixie-backports.
-
- -- Debusine Action GitHub Bot <noreply@bot.invalid>  Wed, 29 Jul 2026 11:31:14 +0000
-
-camx-firmware-hamoa (1.0.2-0qli+staging1) forky; urgency=medium
-
-  [ Agathe Porte ]
-  * New upstream release
-
- -- Debusine Action GitHub Bot <noreply@bot.invalid>  Wed, 29 Jul 2026 10:11:58 +0000
-
-camx-firmware-hamoa (1.0.0-0qli+staging1~bpo13+1) trixie; urgency=medium
-
-  [ Agathe Porte ]
-  * Rebuild for trixie.
-
- -- Debusine Action GitHub Bot <noreply@bot.invalid>  Fri, 17 Jul 2026 13:52:08 +0000
-
-camx-firmware-hamoa (1.0.0-0qli+staging1) forky; urgency=medium
-
-  [ Agathe Porte ]
   * Initial release.
+
+ -- Qualcomm Camera Team <camx.deb.maintainers@qti.qualcomm.com>  Mon, 06 Jan 2025 20:14:14 -0800
 
  -- Debusine Action GitHub Bot <noreply@bot.invalid>  Fri, 17 Jul 2026 13:46:58 +0000
